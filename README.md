@@ -1,4 +1,4 @@
-# Projet-sur-les-r-seaux-de-distribution-d-eau
+# Projet-sur-les-réseaux-de-distribution-d-eau
 On se propose au cours de ce projet d’´etudier le problème de la résolution des équations
 d´ecrivant l’état d’équilibre d’un réseau de distribution d’eau potable. Ce problème peut se
 mettre sous la forme de la minimisation d’une fonction (représentant en quelque sorte l’énergie
